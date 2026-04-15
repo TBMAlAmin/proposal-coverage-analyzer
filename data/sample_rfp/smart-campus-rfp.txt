@@ -1,0 +1,17 @@
+Request for Proposal: Smart Campus Security and Visitor Management Platform
+
+1. Overview
+The university seeks a vendor to provide a cloud-based platform for campus visitor management, access logging, and security reporting across three campuses.
+
+2. Mandatory Requirements
+The proposed solution must support role-based access control for administrators, reception staff, and security officers.
+The vendor shall provide an audit trail for all visitor check-in and check-out events.
+The system must generate daily and monthly security activity reports.
+The solution must support exporting reports in CSV format.
+The vendor must provide implementation within 8 weeks of contract award.
+The bidder shall include onboarding and training for up to 25 staff members.
+The proposal must describe the vendor's data retention policy and backup procedures.
+The solution should provide optional SMS or email notifications for host alerts.
+
+3. Submission Requirements
+The proposal must include a delivery timeline, support model, pricing summary, and at least two relevant case studies.

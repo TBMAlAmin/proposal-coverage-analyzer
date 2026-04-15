@@ -1,0 +1,28 @@
+[
+  {
+    "name": "smart-campus-mini",
+    "rfp_text": "[Page 1]\nMandatory Requirements\n\nThe proposed solution must support role-based access control for administrators, reception staff, and security officers.\nThe vendor shall provide an audit trail for all visitor check-in and check-out events.\nThe system must generate daily and monthly security activity reports.\nThe solution must support exporting reports in CSV format.\nThe vendor must provide implementation within 8 weeks of contract award.\nThe bidder shall include onboarding and training for up to 25 staff members.\nThe proposal must describe the vendor's data retention policy and backup procedures.\nThe solution should provide optional SMS or email notifications for host alerts.",
+    "proposal_text": "Access and user controls\n\nThe system includes role-based permissions for administrators, front-desk staff, and security team members.\n\nAuditability and reporting\n\nEvery visitor event is recorded with timestamped audit history. Standard dashboards include daily operational summaries and monthly activity reporting. Reports can be exported to CSV for compliance and internal review.\n\nImplementation and onboarding\n\nWe propose an implementation timeline of 6 weeks from kickoff. The engagement includes onboarding workshops and administrator training for up to 25 staff members.\n\nData management\n\nOur standard deployment includes nightly backups and a configurable data retention policy documented during implementation.\n\nNotifications\n\nThe platform includes optional email host notifications.",
+    "expected_statuses": {
+      "REQ-001": "Partial",
+      "REQ-002": "Missing",
+      "REQ-003": "Partial",
+      "REQ-004": "Partial",
+      "REQ-005": "Missing",
+      "REQ-006": "Covered",
+      "REQ-007": "Partial",
+      "REQ-008": "Partial"
+    }
+  },
+  {
+    "name": "lab-rfq-mini",
+    "rfp_text": "[Page 1]\nSubmission Requirements\n\nThe quotation must include a delivery timeline, pricing summary, and country of origin.\nThe supplier shall provide a certificate of analysis for each batch.\nThe bidder must confirm cold-chain handling for temperature-sensitive materials.\nThe response should include warranty and replacement terms.",
+    "proposal_text": "Delivery and commercial terms\n\nOur quotation includes a delivery timeline, pricing summary, and country of origin for each material.\n\nQuality assurance\n\nA certificate of analysis is supplied with every batch shipment.\n\nHandling\n\nWe confirm cold-chain handling for all temperature-sensitive materials during storage and transport.",
+    "expected_statuses": {
+      "REQ-001": "Covered",
+      "REQ-002": "Covered",
+      "REQ-003": "Covered",
+      "REQ-004": "Missing"
+    }
+  }
+]
